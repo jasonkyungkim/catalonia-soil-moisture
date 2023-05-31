@@ -1,3 +1,7 @@
+## Abstract
+
+The motivation of this project is to address the need for accurate and timely information about the Earth's surface and understanding flux in the environment's soil moisture during the climate change era. We use different deep learning methods to predict soil moisture levels in the Cataloina region in Spain. View the jupyter notebook file for more details and results!
+
 ## Citation
 
 ```bibtex
